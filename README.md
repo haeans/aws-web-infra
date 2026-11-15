@@ -24,12 +24,3 @@
 ## 결과 산출물
 
 단계를 마칠 때마다 갱신한다.
-
-## 문서 링크
-
-| 문서 | 내용 |
-|---|---|
-| [decisions.md](docs/decisions.md) | 승인된 결정과 예외 |
-| [rules.md](docs/rules.md) | 반복해서 지킬 규칙 |
-| [cost.md](docs/cost.md) | 크레딧 사용 내역과 리소스 기록 |
-| [account.md](docs/account.md) | 계정 종류, 리전, 권한, 제약 |
